@@ -1,0 +1,22 @@
+.heading{
+text-align: center;
+}
+.image{
+    
+        display: grid;
+        place-items: center;
+}
+    
+.words{
+    
+    margin-left: 235px;
+    margin-right:235px;
+}
+.another{
+    margin-left: 235px;
+    margin-right:235px;
+}
+.abc{
+    margin-left: 235px;
+    margin-right:235px;
+}
